@@ -34,7 +34,7 @@ base_url="http://e.cn/api/v1"
 
 
 # 微信code
-code="043ESk0w3vki7V21920w3ah65t4ESk0R"
+code="093OJ1ll22bBM54Hqqnl26TS8l4OJ1lr"
 
 
 # 请求头
